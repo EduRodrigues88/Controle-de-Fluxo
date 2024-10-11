@@ -39,7 +39,7 @@ public class Contador {
         }
     }
 }
-```java
+```
 
 
 # DIO - Trilha Java Básico
